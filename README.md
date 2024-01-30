@@ -10,12 +10,14 @@ Darauf basierend haben wir unsere REST-API für den _AccountService_ designt:
  - [Formlos](docs/accountservice.md)
  - [OpenAPI](openapi.yml)
  
-## Zusätzliche Themen:
+## Zusätzliche Themen
  - Problem Details: [RFC-9457](https://datatracker.ietf.org/doc/html/rfc9457) (ehem. RFC-7807)
  - [Hypermedia APIs](https://www.innoq.com/en/articles/2020/12/rest-apis-with-hal/)
  
 
 ## SOAP vs. REST vs. GraphQL
+
+Ein Repository mit Implementierungen für Spring Boot sowie ergänzend gRPC findest Du [hier](https://github.com/ueberfuhr/api-comparison).
 
 Kriterium| SOAP | REST | GraphQL
 -------- |-------- | -------- | --------
